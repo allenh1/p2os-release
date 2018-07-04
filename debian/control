@@ -1,0 +1,12 @@
+Source: ros-kinetic-p2os-driver
+Section: misc
+Priority: extra
+Maintainer: Hunter L. Allen <hunter@openrobotics.org>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin, ros-kinetic-diagnostic-updater, ros-kinetic-geometry-msgs, ros-kinetic-kdl-parser, ros-kinetic-nav-msgs, ros-kinetic-p2os-msgs, ros-kinetic-roscpp, ros-kinetic-std-msgs, ros-kinetic-tf
+Homepage: http://ros.org/wiki/p2os_driver
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-p2os-driver
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-diagnostic-updater, ros-kinetic-geometry-msgs, ros-kinetic-kdl-parser, ros-kinetic-message-runtime, ros-kinetic-nav-msgs, ros-kinetic-p2os-msgs, ros-kinetic-roscpp, ros-kinetic-std-msgs, ros-kinetic-tf
+Description: Driver file descriptions for P2OS/ARCOS robot
