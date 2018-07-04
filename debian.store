@@ -1,1 +1,1 @@
-{"trim": "", "base": "2062fd5", "trimbase": "", "parent": "debian/kinetic/p2os_msgs", "previous": "3cd0e4e"}
+{"parent": "debian/kinetic/p2os_msgs", "base": "a40af7d7", "previous": "6fab2b5c", "trimbase": "", "trim": ""}
