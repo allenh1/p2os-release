@@ -1,0 +1,12 @@
+Source: ros-kinetic-p2os-launch
+Section: misc
+Priority: extra
+Maintainer: Hunter L. Allen <hunter@openrobotics.org>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin
+Homepage: http://ros.org/wiki/p2os-purdue
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-p2os-launch
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-p2os-driver, ros-kinetic-p2os-msgs, ros-kinetic-p2os-teleop, ros-kinetic-p2os-urdf
+Description: Launch and config files designed for use with the p2os stack.
