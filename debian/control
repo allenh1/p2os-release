@@ -1,0 +1,12 @@
+Source: ros-lunar-p2os-driver
+Section: misc
+Priority: extra
+Maintainer: Hunter L. Allen <hunter@openrobotics.org>
+Build-Depends: debhelper (>= 9.0.0), ros-lunar-catkin, ros-lunar-diagnostic-updater, ros-lunar-geometry-msgs, ros-lunar-kdl-parser, ros-lunar-nav-msgs, ros-lunar-p2os-msgs, ros-lunar-roscpp, ros-lunar-std-msgs, ros-lunar-tf
+Homepage: http://ros.org/wiki/p2os_driver
+Standards-Version: 3.9.2
+
+Package: ros-lunar-p2os-driver
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-lunar-diagnostic-updater, ros-lunar-geometry-msgs, ros-lunar-kdl-parser, ros-lunar-message-runtime, ros-lunar-nav-msgs, ros-lunar-p2os-msgs, ros-lunar-roscpp, ros-lunar-std-msgs, ros-lunar-tf
+Description: Driver file descriptions for P2OS/ARCOS robot
