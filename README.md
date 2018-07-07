@@ -1,3 +1,32 @@
+## p2os (lunar) - 2.1.1-0
+
+The packages in the `p2os` repository were released into the `lunar` distro by running `/usr/lib/python-exec/python3.5/bloom-release p2os --track lunar --rosdistro lunar` on `Sat, 07 Jul 2018 20:13:23 -0000`
+
+These packages were released:
+- `p2os_doc`
+- `p2os_driver`
+- `p2os_launch`
+- `p2os_msgs`
+- `p2os_teleop`
+- `p2os_urdf`
+
+Version of package(s) in repository `p2os`:
+
+- upstream repository: https://github.com/allenh1/p2os
+- release repository: https://github.com/allenh1/p2os-release.git
+- rosdistro version: `2.1.0-0`
+- old version: `2.1.0-0`
+- new version: `2.1.1-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.6`
+- catkin_pkg version: `0.4.6`
+- rosdep version: `0.12.2`
+- rosdistro version: `0.6.8`
+- vcstools version: `0.1.40`
+
+
 ## p2os (kinetic) - 2.1.1-0
 
 The packages in the `p2os` repository were released into the `kinetic` distro by running `/usr/lib/python-exec/python3.5/bloom-release p2os --track kinetic --rosdistro kinetic` on `Wed, 04 Jul 2018 00:51:52 -0000`
