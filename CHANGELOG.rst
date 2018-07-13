@@ -2,6 +2,40 @@
 Changelog for package p2os_teleop
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.1.1 (2018-07-03)
+------------------
+
+2.1.0 (2017-08-01)
+------------------
+* Switch to format 2 (`#48 <https://github.com/allenh1/p2os/issues/48>`_)
+  * Update p2os_launch to package.xml format 2.
+  * Update p2os_driver to package.xml format 2.
+  * Update p2os_urdf to package.xml format 2.
+  * Update p2os_teleop package.xml to format 2.
+  * Update p2os_msgs to package.xml format 2.
+  * Update p2os_doc to package.xml format 2.
+* Contributors: Hunter Allen
+
+2.0.7 (2017-05-30)
+------------------
+* Updated changelog.
+* merged.
+* Updated package metadata, as well as added the correct c++ flags to the urdf file (for Gentoo support).
+* Contributors: Hunter L. Allen
+
+* merged.
+* Updated package metadata, as well as added the correct c++ flags to the urdf file (for Gentoo support).
+* Contributors: Hunter L. Allen
+
+2.0.6 (2017-05-22)
+------------------
+
+2.0.5 (2016-05-26)
+------------------
+
+2.0.4 (2016-05-26)
+------------------
+
 2.0.3 (2015-10-25)
 ------------------
 
