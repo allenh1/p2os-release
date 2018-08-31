@@ -1,3 +1,32 @@
+## p2os (melodic) - 2.1.1-1
+
+The packages in the `p2os` repository were released into the `melodic` distro by running `/usr/lib/python-exec/python3.5/bloom-release p2os --track melodic --rosdistro melodic` on `Fri, 31 Aug 2018 01:49:57 -0000`
+
+These packages were released:
+- `p2os_doc`
+- `p2os_driver`
+- `p2os_launch`
+- `p2os_msgs`
+- `p2os_teleop`
+- `p2os_urdf`
+
+Version of package(s) in repository `p2os`:
+
+- upstream repository: https://github.com/allenh1/p2os
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `2.1.1-0`
+- new version: `2.1.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.6.6`
+- catkin_pkg version: `0.4.8`
+- rosdep version: `0.12.2`
+- rosdistro version: `0.6.9`
+- vcstools version: `0.1.40`
+
+
 ## p2os (indigo) - 2.1.1-1
 
 The packages in the `p2os` repository were released into the `indigo` distro by running `/home/allenh1/.local/bin/bloom-release p2os --track indigo --rosdistro indigo` on `Fri, 13 Jul 2018 20:39:17 -0000`
