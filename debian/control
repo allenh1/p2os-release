@@ -1,0 +1,12 @@
+Source: ros-melodic-p2os-urdf
+Section: misc
+Priority: extra
+Maintainer: Hunter L. Allen <hunter@openrobotics.org>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin, ros-melodic-geometry-msgs, ros-melodic-kdl-parser, ros-melodic-sensor-msgs, ros-melodic-std-msgs, ros-melodic-tf, ros-melodic-urdf
+Homepage: http://ros.org/wiki/p2os-purdue
+Standards-Version: 3.9.2
+
+Package: ros-melodic-p2os-urdf
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-geometry-msgs, ros-melodic-kdl-parser, ros-melodic-p2os-driver, ros-melodic-p2os-msgs, ros-melodic-sensor-msgs, ros-melodic-std-msgs, ros-melodic-tf, ros-melodic-urdf
+Description: URDF file descriptions for P2OS/ARCOS robot
