@@ -1,0 +1,152 @@
+ros-melodic-p2os-msgs (2.2.0-0stretch) stretch; urgency=high
+
+  * Update email address (#58 <https://github.com/allenh1/p2os/issues/58>)
+  * Contributors: Hunter L. Allen
+
+ -- Hunter L. Allen <hallen@kns.com>  Thu, 14 Mar 2019 04:00:00 -0000
+
+ros-melodic-p2os-msgs (2.1.1-0stretch) stretch; urgency=high
+
+
+
+ -- Hunter L. Allen <hunter@openrobotics.org>  Tue, 03 Jul 2018 04:00:00 -0000
+
+ros-melodic-p2os-msgs (2.1.0-0stretch) stretch; urgency=high
+
+  * Switch to format 2 (#48 <https://github.com/allenh1/p2os/issues/48>)
+    * Update p2os_launch to package.xml format 2.
+    * Update p2os_driver to package.xml format 2.
+    * Update p2os_urdf to package.xml format 2.
+    * Update p2os_teleop package.xml to format 2.
+    * Update p2os_msgs to package.xml format 2.
+    * Update p2os_doc to package.xml format 2.
+  * Contributors: Hunter Allen
+
+ -- Hunter L. Allen <hunter@openrobotics.org>  Tue, 01 Aug 2017 04:00:00 -0000
+
+ros-melodic-p2os-msgs (2.0.7-0stretch) stretch; urgency=high
+
+  * Updated changelog.
+  * merged.
+  * Updated package metadata, as well as added the correct c++ flags to the urdf file (for Gentoo support).
+  * Contributors: Hunter L. Allen
+  * merged.
+  * Updated package metadata, as well as added the correct c++ flags to the urdf file (for Gentoo support).
+  * Contributors: Hunter L. Allen
+
+ -- Hunter L. Allen <hunter@openrobotics.org>  Tue, 30 May 2017 04:00:00 -0000
+
+ros-melodic-p2os-msgs (2.0.6-0stretch) stretch; urgency=high
+
+
+
+ -- Hunter L. Allen <hunter@openrobotics.org>  Mon, 22 May 2017 04:00:00 -0000
+
+ros-melodic-p2os-msgs (2.0.5-0stretch) stretch; urgency=high
+
+
+
+ -- Hunter L. Allen <hunter@openrobotics.org>  Thu, 26 May 2016 04:00:00 -0000
+
+ros-melodic-p2os-msgs (2.0.4-0stretch) stretch; urgency=high
+
+
+
+ -- Hunter L. Allen <hunter@openrobotics.org>  Thu, 26 May 2016 04:00:00 -0000
+
+ros-melodic-p2os-msgs (2.0.3-0stretch) stretch; urgency=high
+
+
+
+ -- Hunter L. Allen <hunter@openrobotics.org>  Sun, 25 Oct 2015 04:00:00 -0000
+
+ros-melodic-p2os-msgs (2.0.2-0stretch) stretch; urgency=high
+
+
+
+ -- Hunter L. Allen <hunter@openrobotics.org>  Tue, 04 Aug 2015 04:00:00 -0000
+
+ros-melodic-p2os-msgs (2.0.1-0stretch) stretch; urgency=high
+
+
+
+ -- Hunter L. Allen <hunter@openrobotics.org>  Sat, 11 Jul 2015 04:00:00 -0000
+
+ros-melodic-p2os-msgs (1.0.13-0stretch) stretch; urgency=high
+
+
+
+ -- Hunter L. Allen <hunter@openrobotics.org>  Sat, 02 May 2015 04:00:00 -0000
+
+ros-melodic-p2os-msgs (1.0.12-0stretch) stretch; urgency=high
+
+  * Updated to match indigo-devel
+  * Fixed dependency issues and cleaned up package.xml and CMakeLists.txt for p2os_driver and p2os_msgs
+  * Separated p2os_driver and p2os_msgs
+  * Contributors: Aris Synodinos, Hunter Allen
+
+ -- Hunter L. Allen <hunter@openrobotics.org>  Wed, 25 Jun 2014 04:00:00 -0000
+
+ros-melodic-p2os-msgs (1.0.11-0stretch) stretch; urgency=high
+
+  * Fixed dependency issues and cleaned up package.xml and CMakeLists.txt for p2os_driver and p2os_msgs
+  * Separated p2os_driver and p2os_msgs
+  * Contributors: Aris Synodinos
+
+ -- Hunter L. Allen <hunter@openrobotics.org>  Wed, 25 Jun 2014 04:00:00 -0000
+
+ros-melodic-p2os-msgs (1.0.10-0stretch) stretch; urgency=high
+
+
+
+ -- Hunter L. Allen <hunter@openrobotics.org>  Wed, 28 May 2014 04:00:00 -0000
+
+ros-melodic-p2os-msgs (1.0.9-0stretch) stretch; urgency=high
+
+
+
+ -- Hunter L. Allen <hunter@openrobotics.org>  Sun, 18 Aug 2013 04:00:00 -0000
+
+ros-melodic-p2os-msgs (1.0.7-0stretch) stretch; urgency=high
+
+
+
+ -- Hunter L. Allen <hunter@openrobotics.org>  Sat, 03 Aug 2013 04:00:00 -0000
+
+ros-melodic-p2os-msgs (1.0.6-0stretch) stretch; urgency=high
+
+
+
+ -- Hunter L. Allen <hunter@openrobotics.org>  Sat, 27 Jul 2013 04:00:00 -0000
+
+ros-melodic-p2os-msgs (1.0.5-0stretch) stretch; urgency=high
+
+
+
+ -- Hunter L. Allen <hunter@openrobotics.org>  Tue, 23 Jul 2013 20:31:00 -0000
+
+ros-melodic-p2os-msgs (1.0.4-0stretch) stretch; urgency=high
+
+
+
+ -- Hunter L. Allen <hunter@openrobotics.org>  Tue, 23 Jul 2013 18:32:00 -0000
+
+ros-melodic-p2os-msgs (1.0.2-0stretch) stretch; urgency=high
+
+
+
+ -- Hunter L. Allen <hunter@openrobotics.org>  Tue, 23 Jul 2013 13:17:00 -0000
+
+ros-melodic-p2os-msgs (1.0.1-0stretch) stretch; urgency=high
+
+
+
+ -- Hunter L. Allen <hunter@openrobotics.org>  Mon, 22 Jul 2013 04:00:00 -0000
+
+ros-melodic-p2os-msgs (1.0.0-0stretch) stretch; urgency=high
+
+
+
+ -- Hunter L. Allen <hunter@openrobotics.org>  Tue, 18 Jun 2013 16:26:00 -0000
+
+
