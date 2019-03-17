@@ -1,3 +1,32 @@
+## p2os (indigo) - 2.2.0-0
+
+The packages in the `p2os` repository were released into the `indigo` distro by running `/home/allenh1/.local/bin/bloom-release --track indigo --ros-distro indigo p2os` on `Sun, 17 Mar 2019 02:43:41 -0000`
+
+These packages were released:
+- `p2os_doc`
+- `p2os_driver`
+- `p2os_launch`
+- `p2os_msgs`
+- `p2os_teleop`
+- `p2os_urdf`
+
+Version of package(s) in repository `p2os`:
+
+- upstream repository: https://github.com/allenh1/p2os
+- release repository: https://github.com/allenh1/p2os-release.git
+- rosdistro version: `2.0.3-0`
+- old version: `2.1.1-1`
+- new version: `2.2.0-0`
+
+Versions of tools used:
+
+- bloom version: `0.7.2`
+- catkin_pkg version: `0.4.10`
+- rosdep version: `0.15.1`
+- rosdistro version: `0.7.2`
+- vcstools version: `0.1.40`
+
+
 ## p2os (melodic) - 2.2.0-0
 
 The packages in the `p2os` repository were released into the `melodic` distro by running `/home/allenh1/.local/bin/bloom-release --track melodic --ros-distro melodic p2os` on `Thu, 14 Mar 2019 19:09:57 -0000`
