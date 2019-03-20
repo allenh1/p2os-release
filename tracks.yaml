@@ -60,7 +60,7 @@ tracks:
     last_version: 2.2.0
     name: p2os
     patches: null
-    release_inc: '0'
+    release_inc: '1'
     release_repo_url: https://github.com/allenh1/p2os-release
     release_tag: :{version}
     ros_distro: indigo
