@@ -1,3 +1,32 @@
+## p2os (noetic) - 2.2.1-1
+
+The packages in the `p2os` repository were released into the `noetic` distro by running `/usr/bin/bloom-release p2os --rosdistro noetic` on `Thu, 18 Jun 2020 14:26:37 -0000`
+
+These packages were released:
+- `p2os_doc`
+- `p2os_driver`
+- `p2os_launch`
+- `p2os_msgs`
+- `p2os_teleop`
+- `p2os_urdf`
+
+Version of package(s) in repository `p2os`:
+
+- upstream repository: https://github.com/allenh1/p2os
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `2.2.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.7`
+- catkin_pkg version: `0.4.20`
+- rosdep version: `0.19.0`
+- rosdistro version: `0.8.2`
+- vcstools version: `0.1.42`
+
+
 ## p2os (indigo) - 2.2.0-1
 
 The packages in the `p2os` repository were released into the `indigo` distro by running `/home/allenh1/.local/bin/bloom-release --edit-track --track indigo --ros-distro indigo p2os` on `Wed, 20 Mar 2019 15:37:54 -0000`
